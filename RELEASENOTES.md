@@ -128,6 +128,7 @@ The latter links can be used for OTA upgrades too like ``OtaUrl https://ota.tasm
 - LCD multi I2C bus support
 - I2S full duplex, auto rx sample rate [#24469](https://github.com/arendst/Tasmota/issues/24469)
 - Sen5x power on delay of 60ms [#24452](https://github.com/arendst/Tasmota/issues/24452)
+- Berry solidification is now part of the build system [#24664](https://github.com/arendst/Tasmota/issues/24664)
 - Berry add `loglevel` to `mqtt.publish()` [#24551](https://github.com/arendst/Tasmota/issues/24551)
 
 ### Breaking Changed
@@ -146,6 +147,7 @@ The latter links can be used for OTA upgrades too like ``OtaUrl https://ota.tasm
 - SHT1x software reset I2C bus after initial (un)detection
 - NeoPool always output valid sensitive data [#24573](https://github.com/arendst/Tasmota/issues/24573)
 - SML suppress MQTT publish until valid meter data received [#24587](https://github.com/arendst/Tasmota/issues/24587)
+- Berry faster compilation [#24656](https://github.com/arendst/Tasmota/issues/24656)
 - Matter improved parameters handling [#24471](https://github.com/arendst/Tasmota/issues/24471)
 
 ### Fixed
