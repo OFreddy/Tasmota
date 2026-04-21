@@ -16,6 +16,8 @@ All notable changes to this project will be documented in this file.
 - Berry faster compilation (#24656)
 
 ### Fixed
+- Mitsubishi Electric HVAC memory leak and other issues for MiElHVAC (#24660)
+- I2S mkv muxing for files (#24666)
 
 ### Removed
 
